@@ -1,7 +1,7 @@
 
 # python-api-challenge
 Api Homework
->>>>>>> 86d95c7b11a077b8101e9a8c517ac26f2f2fa4a3
+
 # Python API Homework - What's the Weather Like?
 
 ## Background
